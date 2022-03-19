@@ -26,12 +26,12 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Dhaka
-          plugin_activity: yes
-          plugin_activity_days: 14
-          plugin_activity_filter: all
-          plugin_activity_limit: 5
-          plugin_activity_load: 300
-          plugin_activity_visibility: all
+          # plugin_activity: yes
+          # plugin_activity_days: 14
+          # plugin_activity_filter: all
+          # plugin_activity_limit: 5
+          # plugin_activity_load: 300
+          # plugin_activity_visibility: all
           plugin_introduction: yes
           plugin_introduction_title: yes
           # plugin_isocalendar: yes
@@ -49,9 +49,9 @@ jobs:
           # plugin_notable: yes
           # plugin_notable_from: organization
           # plugin_notable_types: commit
-          plugin_stackoverflow: yes
-          plugin_stackoverflow_limit: 2
-          plugin_stackoverflow_lines: 3
-          plugin_stackoverflow_lines_snippet: 2
-          plugin_stackoverflow_sections: answers-top
-          plugin_stackoverflow_user: 7695859
+          # plugin_stackoverflow: yes
+          # plugin_stackoverflow_limit: 2
+          # plugin_stackoverflow_lines: 3
+          # plugin_stackoverflow_lines_snippet: 2
+          # plugin_stackoverflow_sections: answers-top
+          # plugin_stackoverflow_user: 7695859
