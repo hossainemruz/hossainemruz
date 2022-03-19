@@ -1,1 +1,1 @@
-### Hi there 👋
+![Github Metrics](./github-metrics.svg)
